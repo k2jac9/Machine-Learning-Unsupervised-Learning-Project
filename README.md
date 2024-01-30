@@ -1,5 +1,3 @@
-lustering, hierarchical clustering, and PCA.
-
 # Wholesale Customer Segmentation Analysis
 
 ## Overview
